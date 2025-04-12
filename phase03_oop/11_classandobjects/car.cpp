@@ -1,16 +1,17 @@
 #include <iostream>
+using namespace std;
 
 class Car {
 
 public:
-    std::string model;
-    std::string color;
+    string model;
+    string color;
     int numberOfDoors;
     int numberOfTires;
 
     void description()
     {
-        std::cout << color << model << " have " << numberOfDoors << " Doors " << " and " << numberOfTires << " tires " << std::endl;
+        cout << color << model << " have " << numberOfDoors << " Doors " << " and " << numberOfTires << " tires " << endl;
     };
 };
 
