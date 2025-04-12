@@ -74,7 +74,7 @@
 - **6.3 Encapsulation**
   - Bundling data and methods.
 
-### **Chapter 7: Inheritance and Polymorphism**
+### **Chapter 7: Object-Oriented Programming (OOP) Advanced**
 - **7.1 Inheritance**
   - Base and derived classes.
   - Types of inheritance.
@@ -146,9 +146,3 @@
 - **14.3 Exploring Open Source**
   - Contributing to open-source projects.
 
-### **Tips for Note-Taking**
-1. **Use Headings and Subheadings**: Clearly label each chapter and section for easy navigation.
-2. **Add Examples**: Include small code snippets or diagrams to illustrate concepts.
-3. **Leave Space for Notes**: Add margins or blank lines to jot down questions, insights, or additional explanations.
-4. **Highlight Key Points**: Use colors, underlines, or boxes to emphasize important concepts.
-5. **Summarize Each Chapter**: At the end of each chapter, write a brief summary of what you learned.
